@@ -4,4 +4,5 @@ This repo contains material used for a webinar session that talks about how to a
 - Data asset used
 
 Create your account or sign in [Here](https://ibm.biz/BdfFHS).</br>
-Check the tutorial [Here](developer.ibm.com/series/learning-path-watson-studio/).
+Check the tutorial [Here](developer.ibm.com/series/learning-path-watson-studio/). </br>
+Watch the recorded session [Here](https://www.crowdcast.io/e/automate-ai-model).
